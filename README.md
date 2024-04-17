@@ -1,5 +1,7 @@
 # Codsoft
-#Task1 : Number Guess
+ Task1 : Number Guess
+
+ 
 1.Generated a random number within a specified range, such as 1 to 100.
 2. Prompted the user to enter their guess for the generated number.
 3. Compared the user's guess with the generated number and provided feedback on whether the guess
